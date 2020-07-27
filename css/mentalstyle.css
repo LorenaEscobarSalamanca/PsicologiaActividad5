@@ -1,0 +1,35 @@
+.icono {
+    height: 50px;
+    margin: 5px;
+}
+.contenedor {
+    width: 90%;
+    max-width: 1900px;
+}
+h1,h2 {
+    color: #ff1744;
+    text-align: center;
+}
+p {
+    text-align: justify;
+}
+ul li{
+    list-style-type: circle;
+}
+.color {
+    color: #ff1744;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+main {
+    flex: 1 0 auto;
+}
+
+.redes{
+    width: 45px;
+    height: 40px;
+}

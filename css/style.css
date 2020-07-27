@@ -1,0 +1,55 @@
+.slider {
+    height: 600px;
+}
+.slider img {
+    max-height: 60vh;
+    object-fit: fill;
+}
+.parrafo {
+    text-align: justify;
+    padding: 10px;
+}
+.imagen {
+    width: 100%;
+    border-radius: 30%;
+}
+.imagen2 {
+    width: 40%;
+    padding: 5px;
+}
+.cards {
+    display: flex;
+    justify-content: space-around;
+}
+.cards .card img {
+    height: 300px;
+}
+
+.titulo1{
+    padding: 10px;
+    text-align: center;
+    padding: 10px 0;
+    color: #740004;
+}
+.espacio2 {
+    padding-bottom: 20px;
+}
+.Redes {
+    display: flex;
+    margin: auto;
+    width: 20%;
+    justify-content: space-around;
+}
+.Redes img {
+    width: 45px;
+    height: 40px;
+    margin: 0 10px;
+}
+.mostrar {
+    display: none;
+}
+.videos {
+    margin: 10px auto;
+    display: block;
+    border: #740004 2px solid;
+}
